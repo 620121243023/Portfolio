@@ -458,6 +458,15 @@ span {
     .footer{
         padding: 2rem 3%;
     }
+     .project-box {
+        width: 350px;
+        height: 250px;
+        
+        
+    }
+    .project-container{
+        margin:20px;
+    }
 
 }
 
